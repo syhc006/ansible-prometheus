@@ -1,5 +1,6 @@
 ---
-prometheus_version: 2.7.2
+prometheus_version: 2.8.0
+prometheus_download_url: "http://changeme/prometheus-2.8.0.linux-amd64.tar.gz"
 
 prometheus_config_dir: /etc/prometheus
 prometheus_db_dir: /var/lib/prometheus
